@@ -1,0 +1,7 @@
+{
+  "name": "The Royal Spice - Fine Dining",
+  "description": "A luxury modern Indian heritage fine-dine website featuring real-time reservations, digital menu with pre-orders, and an admin analytics dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
